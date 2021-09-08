@@ -12,7 +12,6 @@ def b():
     '''
     print ('b')
 
-
 def c():
     '''
     ziliucheng
